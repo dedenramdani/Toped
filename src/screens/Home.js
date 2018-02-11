@@ -70,8 +70,8 @@ class Home extends Component<Props> {
 }
 
 const styles = {
-	container :{
-		flex:1
+  container :{
+    flex:1
 	},
   twoView:{
     height:45,
